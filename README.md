@@ -46,5 +46,5 @@ Framework: Express.jss
 
 BD: MongoDB / Moongose
 
-Autenticacion y Validaciones : JSWT Y AJV
+Autenticacion y Validaciones : JWT Y AJV
 
